@@ -2,7 +2,7 @@
 .NET Framework 4.7.2
 
 
-A pasta "HeadCurveVisualizer" é aonde se encontra o instalador, apenas rode o arquivo "setup.exe"
+A pasta "HeadCurveVisualizer" é aonde se encontra o instalador. Baixe os arquivos e coloque-os na mesma pasta. Depois basta apenas rodar o arquivo "setup.exe"
 O instalador irá criar uma pasta na sua área de trabalho com o arquivo executavel SimdutProject.exe
 
 
